@@ -9,4 +9,5 @@ I welcome contributions of all kinds! Whether you'd like to report bugs, suggest
 <br>
 I am a passionate FOSS enthusiast, a Linux user (I use Fedora btw)
 <br>
+<br>
 And I am currently learning Rails
