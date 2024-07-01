@@ -1,4 +1,4 @@
-Hey there 👋
+Hello 👋
 <br>
 <br>
 My name is Aditya, and I am currently working on releasing v1.0 for Forge🔥 <br>
@@ -9,5 +9,3 @@ I welcome contributions of all kinds! Whether you'd like to report bugs, suggest
 <br>
 I am a passionate FOSS enthusiast, a Linux user (I use Fedora btw)
 <br>
-<br>
-And I am currently learning Rails
