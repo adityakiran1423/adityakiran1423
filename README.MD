@@ -9,3 +9,5 @@ I welcome contributions of all kinds! Whether you'd like to report bugs, suggest
 <br>
 I am a passionate FOSS enthusiast, a Linux user (I use Fedora btw)
 <br>
+I have made one open source contribution as of now :
+Documentation fix to [DiceDB/dice](https://github.com/DiceDB/dice) -> [PR Link](https://github.com/DiceDB/dice/pull/721)
