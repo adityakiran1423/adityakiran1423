@@ -8,6 +8,6 @@ It's a work in progress, and I'm actively building and refining its functionalit
 I welcome contributions of all kinds! Whether you'd like to report bugs, suggest features, or collaborate on the codebase, feel free to open issues or pull requests. <br>
 <br>
 I am a passionate FOSS enthusiast, a Linux user (I use Fedora btw)
-<br>
+<br><br>
 I have made one open source contribution as of now :
 Documentation fix to [DiceDB/dice](https://github.com/DiceDB/dice) -> [PR Link](https://github.com/DiceDB/dice/pull/721)
