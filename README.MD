@@ -44,8 +44,8 @@ I am a passionate FOSS enthusiast, a Linux user (I use Fedora btw)
 
 ## 🌐🛠️ Opensource Contributions.
 
-I have made one open source contribution as of now :
-
+I have two open source contributions as of now :
+* Reported an issue in [DiceDB/dice](https://github.com/DiceDB/dice) -> [Issue Link](https://github.com/DiceDB/dice/issues/720)
 * Documentation fix to [DiceDB/dice](https://github.com/DiceDB/dice) -> [PR Link](https://github.com/DiceDB/dice/pull/721)
 <!--
 ## Misc
