@@ -14,8 +14,6 @@ I am a passionate FOSS enthusiast, a Linux user (I use Fedora btw)
 
 ## Currently learning 💻
 
-* Ruby
-* Ruby on Rails
 * Docker
 
 ## ✨ Projects I'm done with ✨
