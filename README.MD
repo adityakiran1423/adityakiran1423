@@ -18,7 +18,7 @@ I am a passionate FOSS enthusiast, a Linux user (I use Fedora btw)
 
 ## ✨ Projects I'm done with ✨
 
- - [redis](https://github.com/adityakiran1423/Redis) a from scratch implementation of the in memory database redis
+ - [Pydis](https://github.com/adityakiran1423/Redis) a from scratch implementation of the in memory database redis
 
  - [terrapi](https://github.com/adityakiran1423/terrapi) an IOT terrarium monitoring system implemented using Arduino
 
