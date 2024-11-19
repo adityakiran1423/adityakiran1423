@@ -56,7 +56,7 @@ Solutions to various coding challenges found online.
 - [Protohackers](https://github.com/theredditbandit/protohackers)
 -->
 
-## 📫 Ping me on discord @`snipermoneymonkey` to get in touch.
+## 📫 Ping me on discord @`_matcha.samurai_` to get in touch.
 
 <!-- ## Rest of the stats
 
