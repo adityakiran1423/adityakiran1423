@@ -16,7 +16,7 @@ I am a passionate FOSS enthusiast, a Linux user (I use Fedora btw)
 
 * Docker
 
-## ✨ Projects I'm done with ✨
+## Projects I'm done with ✨
 
  - [Pydis](https://github.com/adityakiran1423/Redis) a from scratch implementation of the in memory database redis
 
@@ -34,7 +34,7 @@ I am a passionate FOSS enthusiast, a Linux user (I use Fedora btw)
 
 
 
-## 🔭 I’m currently working on 🔭
+## I’m currently working on 🔭
 
  - [Forge](https://github.com/adityakiran1423/forge) a sophisticated project planning and management system in the terminal
 
@@ -42,27 +42,14 @@ I am a passionate FOSS enthusiast, a Linux user (I use Fedora btw)
 
  - Improving [MovieWise](https://github.com/adityakiran1423/MovieWise) to provide better recommendations using scikit module 
 
-## 🌐🛠️ Opensource Contributions.
+## Opensource Contributions 🌐🛠️
 
 I have two open source contributions as of now :
 * Reported an issue in [DiceDB/dice](https://github.com/DiceDB/dice) -> [Issue Link](https://github.com/DiceDB/dice/issues/720)
 * Documentation fix to [DiceDB/dice](https://github.com/DiceDB/dice) -> [PR Link](https://github.com/DiceDB/dice/pull/721)
-<!--
-## Misc
 
-Solutions to various coding challenges found online.
-- [Advent of Code](https://github.com/theredditbandit/advent-of-code)
-- [Hackattic](https://github.com/theredditbandit/hackattic)
-- [Protohackers](https://github.com/theredditbandit/protohackers)
--->
 
 ## 📫 Ping me on discord @`_matcha.samurai_` to get in touch.
-
-<!-- ## Rest of the stats
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=theredditbandit&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/theredditbandit/github-readme-stats#gh-dark-mode-only)     
-<!--
-**theredditbandit/theredditbandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <br>
 
