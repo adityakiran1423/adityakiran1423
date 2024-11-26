@@ -3,7 +3,7 @@
 My name is Aditya
 
 <p align=right>
-<img width=200 src="the-it-crowd-moss-the-it-crowd.gif.gif" />
+<img width=200 src="the-it-crowd-moss-the-it-crowd.gif" />
 </p>
 
 
