@@ -1,16 +1,15 @@
 # Hello there 👋
 
-<p align=left>
+
 My name is Aditya
+
+<p align=center>
+<img height=250 width=350 src="the-it-crowd-moss-the-it-crowd.gif" />
+</p>
 
 ## Currently learning 💻
 
 * Docker
-</p>
-
-<p align=right>
-<img width=200 src="the-it-crowd-moss-the-it-crowd.gif" />
-</p>
 
 ## Projects I'm done with ✨
 
