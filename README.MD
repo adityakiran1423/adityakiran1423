@@ -4,7 +4,7 @@
 My name is Aditya
 
 <p align=center>
-<img height=250 width=350 src="the-it-crowd-moss-the-it-crowd.gif" />
+<img height=270 width=400 src="the-it-crowd-moss-the-it-crowd.gif" />
 </p>
 
 ## Currently learning 💻
