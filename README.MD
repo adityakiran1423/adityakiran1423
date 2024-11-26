@@ -1,7 +1,7 @@
 # Hello there 👋
 
 My name is Aditya
-![](adityakiran1423/moss.gif )
+![](/Code/adityakiran1423/moss.gif )
 ## Currently learning 💻
 
 * Docker
