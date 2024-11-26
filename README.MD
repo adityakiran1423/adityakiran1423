@@ -3,7 +3,7 @@
 My name is Aditya
 
 
-![moss typing](moss.gif)
+![moss typing](the-it-crowd-moss-the-it-crowd.gif)
 
 ## Currently learning 💻
 
