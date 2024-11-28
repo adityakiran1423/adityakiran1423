@@ -37,13 +37,12 @@ My name is Aditya
 
  - Improving [MovieWise](https://github.com/adityakiran1423/MovieWise) to provide better recommendations using scikit module 
 
-## Opensource Contributions 🌐🛠️
+<!-- ## Opensource Contributions 🌐🛠️
 
 I have two open source contributions as of now :
 * Reported an issue in [DiceDB/dice](https://github.com/DiceDB/dice) -> [Issue Link](https://github.com/DiceDB/dice/issues/720)
 * Documentation fix to [DiceDB/dice](https://github.com/DiceDB/dice) -> [PR Link](https://github.com/DiceDB/dice/pull/721)
-* Issue fix to [NCAR/music-box](https://github.com/NCAR/music-box) -> [PR Link](https://github.com/NCAR/music-box/pull/280#event-15408368882)
-
+* Issue fix to [NCAR/music-box](https://github.com/NCAR/music-box) -> [PR Link](https://github.com/NCAR/music-box/pull/280#event-15408368882) -->
 
 ## 📫 Ping me on discord @`_matcha.samurai_` to get in touch.
 
