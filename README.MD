@@ -35,7 +35,9 @@ My name is Aditya
 
  - [birth-hound](https://github.com/adityakiran1423/birth-hound) a UNIX daemon written in Rust which will notify desktop using libnotify
 
- - Improving [MovieWise](https://github.com/adityakiran1423/MovieWise) to provide better recommendations using scikit module 
+ - Improving [MovieWise](https://github.com/adityakiran1423/MovieWise) to provide better recommendations using scikit module
+
+ - [ParkEase-CloudVideoProcessor](https://github.com/Park-Ease/ParkEase-CloudVideoProcessing) a cloud application deployed on EC2 in a container 
 
 <!-- ## Opensource Contributions 🌐🛠️
 
