@@ -31,6 +31,8 @@ My name is Aditya
 
 ## I’m currently working on 🔭
 
+- [Ringo](https://github.com/adityakiran1423/Ringo) a localised GitHub Linguist
+
  - [Forge](https://github.com/adityakiran1423/forge) a sophisticated project planning and management system in the terminal
 
  - [birth-hound](https://github.com/adityakiran1423/birth-hound) a UNIX daemon written in Rust which will notify desktop using libnotify
