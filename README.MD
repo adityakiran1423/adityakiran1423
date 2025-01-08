@@ -41,12 +41,16 @@ My name is Aditya
 
  - [ParkEase-CloudVideoProcessor](https://github.com/Park-Ease/ParkEase-CloudVideoProcessing) a cloud application deployed on EC2 in a container 
 
-<!-- ## Opensource Contributions 🌐🛠️
+## Opensource Contributions 🌐🛠️
 
-I have two open source contributions as of now :
+My open source contributions as of now :
+
 * Reported an issue in [DiceDB/dice](https://github.com/DiceDB/dice) -> [Issue Link](https://github.com/DiceDB/dice/issues/720)
 * Documentation fix to [DiceDB/dice](https://github.com/DiceDB/dice) -> [PR Link](https://github.com/DiceDB/dice/pull/721)
-* Issue fix to [NCAR/music-box](https://github.com/NCAR/music-box) -> [PR Link](https://github.com/NCAR/music-box/pull/280#event-15408368882) -->
+* Feature addition to [PhonePe/epoch-cli](https://github.com/PhonePe/epoch-cli/) -> [PR Link](https://github.com/PhonePe/epoch-cli/pull/5)
+* Issue fix to [NCAR/music-box](https://github.com/NCAR/music-box) -> [PR Link](https://github.com/NCAR/music-box/pull/280#event-15408368882)
+* Reported an issue in [NCAR/music-box](https://github.com/NCAR/music-box) -> [Issue Link](https://github.com/NCAR/music-box/issues/284)
+* Fixed [issue](https://github.com/NCAR/music-box/issues/284) in [NCAR/music-box](https://github.com/NCAR/music-box) -> [PR link](https://github.com/NCAR/music-box/pull/285)
+* [Cited](https://github.com/NCAR/music-box/blob/main/CITATION.cff) contributor for [NCAR/music-box](https://github.com/NCAR/music-box)
 
 ## Ping me on discord @`_matcha.samurai_` to get in touch 📫
-
