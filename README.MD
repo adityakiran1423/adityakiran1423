@@ -17,7 +17,7 @@ My name is Aditya
 
  - [terrapi](https://github.com/adityakiran1423/terrapi) an IOT terrarium monitoring system implemented using Arduino
 
-- [Gafka](https://github.com/adityakiran1423/Gafka) a miniature implementation of Apache Kafka in Go
+ - [Gafka](https://github.com/adityakiran1423/Gafka) a miniature implementation of Apache Kafka in Go
 
  - [StockVista](https://github.com/adityakiran1423/StockVista) a platform for getting precise and timely market data of any stock
 
@@ -30,8 +30,6 @@ My name is Aditya
 
 
 ## I’m currently working on 🔭
-
-- [Ringo](https://github.com/adityakiran1423/Ringo) a localised GitHub Linguist
 
  - [Forge](https://github.com/adityakiran1423/forge) a sophisticated project planning and management system in the terminal
 
