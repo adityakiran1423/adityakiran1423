@@ -9,7 +9,8 @@ My name is Aditya
 
 ## Currently learning 💻
 
-* Docker
+* Spring Boot
+* Microservices
 
 ## Projects I'm done with ✨
 
