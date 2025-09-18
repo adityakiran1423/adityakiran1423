@@ -7,7 +7,7 @@ My name is Aditya
 <img height=290 width=450 src="the-it-crowd-moss-the-it-crowd.gif" />
 </p>
 
-<!-- ## Currently learning 💻
+## Currently learning 💻
 
 * Spring Boot
 * Microservices
@@ -52,4 +52,4 @@ My open source contributions as of now :
 * Fixed [issue](https://github.com/NCAR/music-box/issues/284) in [NCAR/music-box](https://github.com/NCAR/music-box) -> [PR link](https://github.com/NCAR/music-box/pull/285)
 * [Cited](https://github.com/NCAR/music-box/blob/main/CITATION.cff) contributor for [NCAR/music-box](https://github.com/NCAR/music-box)
 
-## Ping me on discord @`_matcha.samurai_` to get in touch 📫 -->
+## Ping me on discord @`_matcha.samurai_` to get in touch 📫
